@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(32, 31, 31);
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.cabecera {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bodypag p {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+} 
+.nombre {
+    display: flex;
+    justify-content: center;
+}
